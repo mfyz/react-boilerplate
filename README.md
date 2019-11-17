@@ -1,6 +1,6 @@
-# Nomad Team Portal Web App
+# React JS Minimal Web App Boilerplate
 
-A minimal react.js web application for Nomad Interactive's Team Portal
+A minimal react.js web application
 
 Technologies we used:
 
